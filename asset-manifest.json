@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fab05bb.chunk.css",
+    "main.js": "/static/js/main.c3c78688.chunk.js",
+    "main.js.map": "/static/js/main.c3c78688.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.587e4aae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.587e4aae.js.map",
+    "static/js/2.f7e64fa1.chunk.js": "/static/js/2.f7e64fa1.chunk.js",
+    "static/js/2.f7e64fa1.chunk.js.map": "/static/js/2.f7e64fa1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d6c5fcde678a0adeaf6ba6bfb2b4f948.js": "/precache-manifest.d6c5fcde678a0adeaf6ba6bfb2b4f948.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1fab05bb.chunk.css.map": "/static/css/main.1fab05bb.chunk.css.map",
+    "static/js/2.f7e64fa1.chunk.js.LICENSE.txt": "/static/js/2.f7e64fa1.chunk.js.LICENSE.txt",
+    "static/media/babymario.png": "/static/media/babymario.bcdbf223.png",
+    "static/media/bowser.png": "/static/media/bowser.b296e163.png",
+    "static/media/bowserjr.png": "/static/media/bowserjr.416fae70.png",
+    "static/media/donkeykong.png": "/static/media/donkeykong.d37cf451.png",
+    "static/media/kingboo.png": "/static/media/kingboo.7d1fcf1e.png",
+    "static/media/morton.png": "/static/media/morton.dd30d2c5.png",
+    "static/media/refresh.png": "/static/media/refresh.e3104c45.png",
+    "static/media/shyguy.png": "/static/media/shyguy.b70c7b5f.png",
+    "static/media/waluigi.png": "/static/media/waluigi.79686ed9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.587e4aae.js",
+    "static/js/2.f7e64fa1.chunk.js",
+    "static/css/main.1fab05bb.chunk.css",
+    "static/js/main.c3c78688.chunk.js"
+  ]
+}
